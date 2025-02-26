@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/eagle-scream.mp3-4e0fa1b9520163fce9c020778045efa8.mp3str"
+
+[deps]
+
+source_file="res://Audio/eagle-scream.mp3"
+dest_files=[ "res://.import/eagle-scream.mp3-4e0fa1b9520163fce9c020778045efa8.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
